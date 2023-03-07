@@ -1,0 +1,21 @@
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+form{
+    display: flex;
+    gap: 10px;
+    margin-bottom: 100px;
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+}
+
+.reset{
+    background-color: red;
+}
